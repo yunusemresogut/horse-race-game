@@ -1,14 +1,14 @@
 # 🏇 Horse Racing Game – Vue + Vuex
 
-A simple horse racing simulation built with Vue 3 and Vite.
+Horse Racing Game
 
 ## 🚀 Demo
-👉 https://your-vercel-link.vercel.app
+👉 [https://your-vercel-link.vercel.app](https://horse-race-game-lovat.vercel.app/)
 
 ## 🛠️ Tech Stack
 - Vue 3
 - Vite
-- Vuex / Pinia
+- Vuex
 - Tailwind CSS
 
 ## 📦 Installation
