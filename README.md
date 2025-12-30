@@ -3,7 +3,7 @@
 Horse Racing Game
 
 ## 🚀 Demo
-👉 [https://your-vercel-link.vercel.app](https://horse-race-game-lovat.vercel.app/)
+👉 [Vercel Demo](https://horse-race-game-lovat.vercel.app/)
 
 ## 🛠️ Tech Stack
 - Vue 3
