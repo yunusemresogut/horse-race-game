@@ -1,0 +1,22 @@
+export const names = [
+    "Secretariat",
+    "Man o' War",
+    "Seabiscuit",
+    "Citation",
+    "War Admiral",
+    "American Pharoah",
+    "Justify",
+    "Frankel",
+    "Black Caviar",
+    "Zenyatta",
+    "Seattle Slew",
+    "Affirmed",
+    "Arkle",
+    "Red Rum",
+    "Winx",
+    "Phar Lap",
+    "Northern Dancer",
+    "Nijinsky",
+    "Kelso",
+    "Mill Reef"
+  ];
